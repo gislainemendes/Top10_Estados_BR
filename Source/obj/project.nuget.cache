@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8D8W2o6ypxrVEewEe/SMkX+nUMUpUo2sCEJiZdBQY+rGLNOLDt8YeuBaIp9xw34iD3HV0081fuEqcpFXHibhSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gislaine\\codenation\\csharp-3\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gislaine\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gislaine\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
